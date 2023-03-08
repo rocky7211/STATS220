@@ -4,8 +4,13 @@
 
 This is my repo for **STATS 220** for *semester one 2023*.
 
-The repo will be used for the following things:
+I will be using this repo for the following things:
 
--   R Projects
+- Stats220 Projects
+- General R Projects
 
-Check out my [website!]()
+As more projects take off, I will reogranise to ensure the current project 
+is the one reflected on the website. Feel free to take a look around this repo and
+my other repos if you like.
+
+Check out my [website!](https://rocky7211.github.io/stats220/)
