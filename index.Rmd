@@ -32,6 +32,8 @@ my dislike for computer science data structures!
     ```{r file='animation.R', eval=FALSE}
     ```
 
+## CSS
+
 ```{css}
 
 /* Import my preferred font */
@@ -63,6 +65,9 @@ h2 {
     margin: auto;
     padding: 5px 20px;
 }
+pre.css {
+  margin-top: 2%;
+}
 
 h4 {
   border-bottom: 5px solid #C71585;
@@ -88,5 +93,7 @@ code.hljs {
 
 pre, pre:not([class]) {
   background-color: #000;
-}!important
+}!important;
+
+
 ```
